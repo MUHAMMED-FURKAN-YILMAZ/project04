@@ -2,3 +2,5 @@ merhaba
 muhammed furkan
 test
 local çakışma
+cakisma remote
+
