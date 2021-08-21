@@ -3,13 +3,9 @@ muhammed furkan
 test
 local çakışma
 cakisma remote
-<<<<<<< HEAD
 AaAAAAAAAAAA
 ahdjhgasdad
 dlfjfdıghfr
-
-=======
 BBBBBBBBBB
 CCCCCCCCC
 DDDDDDD
->>>>>>> 6de528b01f6e8cc8ebff8b835e6c11956a0330dc
